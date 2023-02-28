@@ -10,8 +10,8 @@
 
 #include <stdio.h>
 #include <sstream>
-#include "ajabase/common/public.h"
-#include "ajabase/system/debugshare.h"
+#include "../common/public.h"
+#include "debugshare.h"
 
 
 

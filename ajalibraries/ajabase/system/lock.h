@@ -8,7 +8,7 @@
 #ifndef AJA_LOCK_H
 #define AJA_LOCK_H
 
-#include "ajabase/common/public.h"
+#include "../common/public.h"
 
 #if defined(AJA_USE_CPLUSPLUS11)
 	#include <mutex>

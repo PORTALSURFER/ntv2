@@ -13,9 +13,9 @@
 	#pragma warning(disable:4800)
 #endif
 
-#include "ajabase/common/export.h"
-#include "ajabase/common/public.h"
-#include "ajabase/system/debug.h"
+#include "export.h"
+#include "public.h"
+#include "../system/debug.h"
 #include <set>
 
 namespace aja

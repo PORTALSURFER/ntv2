@@ -10,7 +10,7 @@
 
 #include "ajaexport.h"
 #include "ntv2publicinterface.h"
-#include "ajabase/system/info.h"
+#include "../../ajabase/system/info.h"
 
 #if defined(AJALinux)
 #include <stdio.h>

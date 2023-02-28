@@ -18,7 +18,7 @@
 #include "ntv2utils.h"
 #include "ntv2devicefeatures.h"
 #if defined(NTV2_WRITEREG_PROFILING)	//	Register Write Profiling
-	#include "ajabase/system/lock.h"
+	#include "../../ajabase/system/lock.h"
 #endif	//	NTV2_WRITEREG_PROFILING		Register Write Profiling
 #include <string>
 

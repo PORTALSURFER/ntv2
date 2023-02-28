@@ -8,12 +8,12 @@
 #ifndef AJA_PUBLIC_H
 	#define AJA_PUBLIC_H
 
-	#include "ajabase/common/export.h"
+	#include "export.h"
 	#include <string>
 	#include <list>
 	#include <vector>
 	#include <map>
-	#include "ajabase/common/types.h"
+	#include "types.h"
 	#if defined(AJA_USE_CPLUSPLUS11)
 		#include <mutex>
 	#endif

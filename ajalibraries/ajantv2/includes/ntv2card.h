@@ -11,7 +11,7 @@
 #include "ajaexport.h"
 
 #if defined (MSWindows)
-	#include "ntv2windriverinterface.h"
+	#include "../src/win/ntv2windriverinterface.h"
 #elif defined (AJAMac)
 	#include "ntv2macdriverinterface.h"
 #elif defined (AJALinux)

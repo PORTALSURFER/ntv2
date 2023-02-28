@@ -8,7 +8,7 @@
 #ifndef AJA_INFO_H
 #define AJA_INFO_H
 
-#include "ajabase/common/public.h"
+#include "../common/public.h"
 #include <vector>
 #include <map>
 #include <string>

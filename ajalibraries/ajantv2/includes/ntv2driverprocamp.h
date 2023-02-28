@@ -29,7 +29,7 @@
 #endif
 
 #ifdef MSWindows
-#include "ntv2winpublicinterface.h"
+#include "../src/win/ntv2winpublicinterface.h"
 #endif
 
 

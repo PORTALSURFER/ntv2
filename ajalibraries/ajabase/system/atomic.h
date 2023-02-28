@@ -8,7 +8,7 @@
 #ifndef AJA_ATOMIC_H
 #define AJA_ATOMIC_H
 
-#include "ajabase/common/public.h"
+#include "../common/public.h"
 
 /** 
  *	Collection of system independent atomic functions.
